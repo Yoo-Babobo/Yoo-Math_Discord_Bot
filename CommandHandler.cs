@@ -8,7 +8,7 @@ using Discord.WebSocket;
 using Microsoft.Extensions.Configuration;
 using System.Globalization;
 
-namespace yoo_math
+namespace yoo_math_bot
 {
     public class CommandHandler
     {

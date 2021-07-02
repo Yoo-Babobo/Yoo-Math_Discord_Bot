@@ -6,7 +6,7 @@ using System.Data;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace yoo_math
+namespace yoo_math_bot
 {
     public class Commands : ModuleBase
     {
